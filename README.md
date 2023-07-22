@@ -1,2 +1,2 @@
-# poc-spring-webflux-mongodb
-PoC para estudos do Spring Webflux com MongoDB
+# poc-observabilidade-elastic
+PoC para estudos sobre observabilidade com elastic
